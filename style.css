@@ -1,0 +1,22 @@
+div {
+	margin-top:10vh;
+	text-align:center;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+}
+p {
+	font-size:4rem;
+}
+button {
+  padding: 0.5rem 0.5rem;
+  border-radius:5px;
+  background-color: transparent;
+	outline: 1px solid #5A5A5A;
+	width:5rem;
+}
+button:hover {
+	background-color: grey;
+	color: white;
+}
